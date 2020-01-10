@@ -1,9 +1,0 @@
-# MacOS System
-.DS_Store
-
-# Package Manager
-node_modules
-
-# IDE
-/.idea
-/.vscode
